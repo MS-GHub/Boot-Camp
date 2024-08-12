@@ -9,6 +9,7 @@ Type something in the screen.
 Check the keylog.txt file in c:\ and the log file will capture all the keystrokes pressed.
 
 
-Sources
+SOURCES:
 https://www.python.org/
+
 https://www.youtube.com/watch?v=XKoTwepEzPI
